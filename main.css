@@ -1,0 +1,33 @@
+body {
+    background-color: #f9edc2;
+    color: white;
+}
+
+div {
+    display: block;
+}
+
+.masthead {
+    position: fixed;
+    background-color: #0c143d;
+    color: #f9edc2;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    width: 35%;
+    max-width: 380px;
+    padding: 3rem 2rem;
+}
+
+.masthead-nav{
+    margin-top: 10rem;
+}
+
+.listing {
+    position: fixed;
+    background-color: #f9edc2;
+    color: #0c143d;
+    margin-left: 35%;
+    width: 65%;
+    padding-left: 0;
+}
